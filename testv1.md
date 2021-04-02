@@ -1,2 +1,2 @@
-This is ver1
-confict1
+This is ver1 + edit
+confict
